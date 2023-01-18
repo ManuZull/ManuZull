@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, my name is Juan Manuel!😀
 
 <!--
 **ManuZull/ManuZull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### I'm Full Stack Developer and Web Designer with extensive knowledge of the area, I am From Buenos Aires, Argentina, South América.
+-I create web pages from scratch.
+-I love solving problems and it is also a satisfaction. The idea is to keep improving and advancing in the world of web developer.

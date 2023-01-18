@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### I'm Full Stack Developer and Web Designer with extensive knowledge of the area, I am From Buenos Aires, Argentina, South América.
--I create web pages from scratch.
--I love solving problems and it is also a satisfaction. The idea is to keep improving and advancing in the world of web developer.
+
+
+🧡-I love solving problems and it is also a satisfaction. The idea is to keep improving and advancing in the world of web developer.
+
+🧡I create web pages from scratch.
+
+🧡I create web pages from scratch.

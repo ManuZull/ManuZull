@@ -24,9 +24,62 @@ Here are some ideas to get you started:
 🔵You can contact me in my personal email: epizull@gmail.com
 
 ### 💻Skills:
-![image size="20"](https://user-images.githubusercontent.com/30662800/213352897-566e7d6d-2797-494a-88a1-f18a4addf053.png)
-![image](https://user-images.githubusercontent.com/30662800/213352908-04fe4e5b-6e4f-4de7-9aff-005b98966260.png)
-![image](https://user-images.githubusercontent.com/30662800/213352911-d2edce73-19f2-4c52-83e9-24ce4090ba67.png)
-![image](https://user-images.githubusercontent.com/30662800/213352913-4a739d88-86a5-4162-8be3-18371f50b69b.png)
-![image](https://user-images.githubusercontent.com/30662800/213353246-c7927b3a-2598-43d2-864d-2075a56a238f.png)
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> 
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css3" width="40" height="40"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213364425-08a739d7-ae2e-404d-8492-99c51e5f781d.png" alt="Vue.js" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://cli.vuejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213364425-08a739d7-ae2e-404d-8492-99c51e5f781d.png" alt="VueCli" width="40" height="40"/> 
+  </a> 
+
+  
+ <a href="https://wordpress.com/en/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213364675-82afd3f2-6aaf-471f-a89a-010656102c9e.png" alt="Wordpress" width="40" height="40"/> 
+ </a> 
+  
+  <a href="https://www.php.net/manual/es/index.php" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213363589-9e68a008-e077-4e10-9dd6-b6a9e3a7f391.png" alt="PHP" width="40" height="40"/> 
+  </a> 
+
+ <a href="https://www.w3schools.com/php/php_oop_what_is.asp" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213365960-38931cc9-ecf1-43ee-9ab7-6563c1496eb7.png" alt="OOP-PHP" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213365122-1c7e6e0d-3080-4b73-9a52-b424235af781.png" alt="Linux" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213366365-80052c56-fea9-42ec-a9a2-deef4b2df899.png" alt="Nodejs" width="40" height="40"/> 
+  </a> 
+
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213366734-4ba8dc0d-a6e8-46ea-9828-2c89838a1ef0.png" alt="Laravel" width="40" height="40"/> 
+  </a> 
+  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  
+  
+
+### 💻Personal Portfolio:
+
+<!--
+**ManuZull/ManuZull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+🔵Coming soon!
+
 

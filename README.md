@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 🔵You can contact me in my personal email: epizull@gmail.com
 
+(https://www.linkedin.com/in/juan-manuel-zullo/)
+
 ### 💻Skills:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" width="40" height="40"/> 

@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/30662800/213875522-dc7f5a5f-baa8-4a5e-a67a-a21db58c8ac0.png" alt="Toptal" width="40" height="40"/> 
 </a>
 
-<a href="epizull@gmail.com" target="_blank" rel="noreferrer"> 
+<a href="mailto:epizull@gmail.com" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/30662800/213875607-40081037-3cfb-4986-b101-da2adab3788d.png" alt="Email" width="40" height="40"/> 
 </a>
 

@@ -92,9 +92,15 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/30662800/213366734-4ba8dc0d-a6e8-46ea-9828-2c89838a1ef0.png" alt="Laravel" width="40" height="40"/> 
   </a> 
   
+  
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/30662800/213875761-db27db36-900e-4e2b-95ab-6c227b3f0aa3.png" alt="Tailwind " width="40" height="40"/> 
+  </a> 
+  
+  
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a> 
+</a> 
   
  <a href="https://www.adobe.com/?sdid=49F59KY6&clickref=1101lwiagS7w&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=cloudphoto" target="_blank" rel="noreferrer"> 
     <img src="https://user-images.githubusercontent.com/30662800/213567804-2795569e-be68-4213-b0d2-d57982b1fa8e.png" alt="Photoshop" width="40" height="40"/> 

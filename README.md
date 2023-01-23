@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 ### About Me:
 🔵I love solving problems and it is also a satisfaction. The idea is to keep improving and advancing in the world of web developer.
 
-🔵I am looking to collaborate on projects to be able to continue learning programming.
+🔵I am willing to work and looking for jobs in the area of ​​programming and web design, to be able to continue learning programming.
 
 🔵I create web pages from scratch.
 
-🔵Ask me about all the technologies how.
+🔵Ask me about all the technologies.
+
+🔵I am also willing to learn new programming languages ​​and frameworks despite the ones I learned at university institue.
 
 🔵You can contact me in my personal email: epizull@gmail.com
 

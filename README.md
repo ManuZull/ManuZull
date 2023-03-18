@@ -14,18 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### I am Full Stack Developer and Web Designer with extensive knowledge in this field, I am from Buenos Aires, Argentina, South America.
+#### I am a full stack developer and web designer with extensive knowledge in this field, I am from Buenos Aires, Argentina, South America.
 
 ### About Me:
-🔵I love solving problems, and it's also a satisfaction. The idea is to improve and advance in the world of web developers.
+🔵I love to solve problems and it's also a satisfaction. The idea is to improve and advance in the world of web developers.
 
-🔵I am ready to work and looking for programming and web design jobs to continue learning programming.
+🔵I am willing to work and looking for programming and web design jobs to learn programming further.
 
 🔵I create websites from scratch.
 
 🔵Ask me about all technologies.
 
-🔵I am also ready to learn new programming languages and frameworks, despite the ones I learned at the college institute.
+🔵I am also willing to learn new programming languages and frameworks, apart from the ones I learned at the college institute.
 
 🔵You can contact me at my personal email address: epizull@gmail.com
 
